@@ -1,0 +1,14 @@
+# redfin-user 11 RQ3A.210805.001.A1 7474174 release-keys
+- manufacturer: 
+- platform: 
+- codename: RMX2001
+- flavor: lineage_RMX2001-userdebug
+- release: 11
+- id: RQ3A.210805.001.A1
+- incremental: eng.sharan.20210815.133117
+- tags: release-keys
+- fingerprint: google/redfin/redfin:11/RQ3A.210805.001.A1/7474174:user/release-keys
+- is_ab: false
+- brand: realme
+- branch: redfin-user-11-RQ3A.210805.001.A1-7474174-release-keys
+- repo: realme_rmx2001_dump
